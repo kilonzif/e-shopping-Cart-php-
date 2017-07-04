@@ -1,0 +1,7 @@
+jp_business="demo@webtribe.co.ke"
+
+$sharedkey = '6127482F-35BC-42FF-A466-276C577E7DF3'
+
+VISA/Master Card no: 4242424242424242;
+cvv: 123
+Expiry date: Feb 2020
